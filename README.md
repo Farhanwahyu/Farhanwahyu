@@ -60,8 +60,8 @@ machines that will be implemented.
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/farhanwahyuanggara#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/farhanwahyuanggara#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/farhanwahyu___?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/farhanwahyu___?igshid=YzAwZjE1ZTI0Zg%3D%3D&utm_source=qr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/farhanwahyu___#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/farhanwahyu___#gh-dark-mode-only)
 
 
 [webdev]: https://github.com/Farhanwahyu/Farhanwahyu
