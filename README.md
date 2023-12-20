@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Research and Development Electric 
 - 🌱 I’m currently learning Python, Programmable Logic Controller, Human Interface, Robotic Adapt & Robotic ABB
 - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🤔 I am looking for suggestions for innovative Automation Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: farhanwahyu33@gmail.com
 
@@ -36,6 +36,49 @@ working on projects include Omron Sysmac, Beckhoff TwinCAT, EasyBuilder,
 Electric Autocad, NB Designer, while for documentation using Microsoft
 Office, Google Sheet, and I am responsible for designing hardware on
 machines that will be implemented.
+
+## Project Experience:
+   - PT.Mayora Indah Tbk (Machine pack candy in 2019)
+     - Programmer PLC Softwere Sysmac
+     - Programmer HMI NB Softwere NB Designer
+     - Wiring Diagram Electric
+     - Programmer Robot Delta 3 Axis Softwere Ace
+       
+   - PT. Uniliver Indonesia (Machine pack sweet soy sauce in 2021)
+      - Programmer PLC Softwere Sysmac
+      - Programmer HMI NA
+      - Wiring Diagram 
+      - Programmer Robot Delta 4 Axis Softwere Ace
+        
+   - PT Sampoerna Karawang (System Robotic Palletizer in 2022)
+      - Wiring Diagram Electric
+      - Training Document Modul
+      - Trial Profibus With Plc Beckhoff
+        
+   - PT Motasa Indonesia ( System Robotic Palletizer in 2023)
+      - Wiring Diagram Electric
+      - Training Document Modul
+      - Programmer PLC Softwere Sysmac
+     - Programmer Robot Abb 460
+     - Programmer HMI NB Softwere Nb-Disigner
+       
+   - PT. Aisin Indonesia Automotive (System Case Packer in 2023)
+      - Wiring Diagram Electric
+      - Training Document Modul
+        
+   - PT Sampoerna (System Lifter in 2023)
+       - Wiring Diagram Electric
+       - Training Document Modul Configurasi Inveter Softwere SoMove
+
+## Course:
+   - General OHS Training (Nov 2023)
+     1.Basic OHS
+     2.Potential Hazards
+     3.Risk Management
+     4. Reporting Every Work Accident
+   - ETAP Training for Electrical Engineers Beginner (Nov 2023)
+     1.Load Flow Analysis ETAP Power Station
+     2.Set Up Data dan Simulasi ETA
 
 ---
 
