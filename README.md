@@ -72,13 +72,14 @@ machines that will be implemented.
 
 ## Course:
    - General OHS Training (Nov 2023)
-     1.Basic OHS
-     2.Potential Hazards
-     3.Risk Management
-     4. Reporting Every Work Accident
+     - Basic OHS
+     - Potential Hazards
+     - Risk Management
+     - Reporting Every Work Accident
+       
    - ETAP Training for Electrical Engineers Beginner (Nov 2023)
-     1.Load Flow Analysis ETAP Power Station
-     2.Set Up Data dan Simulasi ETA
+     - Load Flow Analysis ETAP Power Station
+     - Set Up Data dan Simulasi ETA
 
 ---
 
