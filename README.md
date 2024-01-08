@@ -18,7 +18,7 @@
    - Futsal team members
 
 ## Work Experience:
-#### 1. [PT. Industrial Robotic Automation](https://irarobotics.com/home) | Electrical R&D Apprentice Staf | Surabaya `Mar 2019 - Agu 2022`
+#### 1. [PT. Industrial Robotic Automation](https://irarobotics.com/home) | Electrical R&D Apprentice Staf | Surabaya `Mar 2021 - Agu 2022`
 
 During my internship at PT IRA, I interned as a PLC Programmer, HMI, and the
 projects I have worked on while at PT IRA include Robotic Bag Palletizer,
